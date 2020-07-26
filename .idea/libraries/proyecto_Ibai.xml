@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="proyecto-Ibai">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RXTXcomm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/substance-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/j3d-1_5_2-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/j3dutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LeapJava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/j3dcore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
